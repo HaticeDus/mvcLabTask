@@ -24,3 +24,33 @@ C:\Users\HAKAN DÜŞ\OneDrive\Masaüstü\webPro_Asignments\Laboratory Work 1\obj
 C:\Users\HAKAN DÜŞ\OneDrive\Masaüstü\webPro_Asignments\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.pdb
 C:\Users\HAKAN DÜŞ\OneDrive\Masaüstü\webPro_Asignments\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.genruntimeconfig.cache
 C:\Users\HAKAN DÜŞ\OneDrive\Masaüstü\webPro_Asignments\Laboratory Work 1\obj\Debug\net6.0\ref\Laboratory Work 1.dll
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\appsettings.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\Laboratory Work 1.staticwebassets.runtime.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\Laboratory Work 1.exe
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\Laboratory Work 1.deps.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\Laboratory Work 1.runtimeconfig.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\Laboratory Work 1.dll
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\bin\Debug\net6.0\Laboratory Work 1.pdb
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.AssemblyInfo.cs
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.RazorAssemblyInfo.cache
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.RazorAssemblyInfo.cs
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets\msbuild.Laboratory Work 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets\msbuild.build.Laboratory Work 1.props
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Laboratory Work 1.props
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Laboratory Work 1.props
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\scopedcss\bundle\Laboratory Work 1.styles.css
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\scopedcss\projectbundle\Laboratory Work 1.bundle.scp.css
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.dll
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\refint\Laboratory Work 1.dll
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.pdb
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\Laboratory Work 1.genruntimeconfig.cache
+C:\Users\Monster\Desktop\Gülsüm_proje_mvc\mvcLabTask\Laboratory Work 1\obj\Debug\net6.0\ref\Laboratory Work 1.dll

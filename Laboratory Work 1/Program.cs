@@ -22,9 +22,39 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapRazorPages();
-app.MapControllerRoute(
- name: "default",
- pattern: "{controller=}/{action=Index}/{id?}");//[Controller] /[ActionName] /[Parameters]
+
+
+//app.MapControllerRoute(
+// name: "default",
+// pattern: "{controller=}/{action=Index}/{id?}");//[Controller] /[ActionName] /[Parameters]
+
+//--------------------------------------------------------------------------------------
+
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllerRoute(
+        name: "default",
+        pattern: "{controller=EmployeeController}/{action=Index}/{id?}");
+
+    endpoints.MapRazorPages();
+});
+
+
+//--------------------------------------------------------------------
+
+
+//app.UseEndpoints(endpoints =>
+//{
+//    endpoints.MapControllerRoute(
+//        name: "employeeDetails",
+//        pattern: "Employee/Details/{id}", // Route þablonu burada belirlenir
+//        defaults: new { controller = "Employee", action = "Details" } // Controller ve action isimleri belirlenir
+//    );
+
+//    // Diðer endpoint ayarlarý burada...
+
+//    endpoints.MapRazorPages();
+//});
 
 
 app.Run();
