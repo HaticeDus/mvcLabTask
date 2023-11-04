@@ -1,0 +1,175 @@
+﻿@model Laboratory_Work_1.Models.Employee
+
+@{
+    ViewData["Title"] = "Details";
+}
+<h1>Details</h1>
+<div>
+    <h4>Employee</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.BirthDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.BirthDate)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Position)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Position)
+        </dd>
+    </dl>
+    <tr>
+        <td rowspan="4" style="vertical-align: top;"><img src="@Model.Image" alt="Employee Image" width="150" height="150" /></td>
+    </tr>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*@{
+    ViewData["Title"] = "Details";
+}
+<h1>Details</h1>
+<h3>Employee</h3>
+<hr class="divider">
+<table class="table">
+    <tr>
+        <td><strong>Name:</strong></td>
+        <td>@Model.Name</td>
+        <td rowspan="4" style="vertical-align: top;"><img src="@Model.Image" alt="Employee Image" width="150" height="150" /></td>
+    </tr>
+    <tr>
+        <td><strong>Surname:</strong></td>
+        <td>@Model.Surname</td>
+    </tr>
+    <tr>
+        <td><strong>Birth Date:</strong></td>
+        <td>@Model.BirthDate.ToShortDateString()</td>
+    </tr>
+    <tr>
+        <td><strong>Position:</strong></td>
+        <td>@Model.Position</td>
+    </tr>
+</table>
+<hr class="divider">
+      GERİ DÖNDÜRME KISMINDA SIKINTI VAR ASP-ACTION HATA VAR
+ 
+<style>
+    h1 {
+    color: #333;
+    font-size: 24px;
+  
+}
+
+h3 {
+    color: #555;
+    font-size: 18px;
+   
+}
+body{
+      
+       
+        background-color:aliceblue;
+         justify-content: center;
+         align-items: center;
+         height: 100vh;
+      
+   
+}
+.divider {
+    border: none;
+    border-top: 2px solid #333; /* Çizginin rengini ve kalınlığını isteğinize göre ayarlayabilirsiniz */
+    margin: 20px 0; /* Bölücüyü yukarıda ve aşağıda 20 piksel boşluk ile ayarlar */
+}
+.table{
+   
+}
+</style>**@
